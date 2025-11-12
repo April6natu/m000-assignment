@@ -1,0 +1,17 @@
+# Aiken build artifacts
+build/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+.idea/
+
+# Node/npm
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
