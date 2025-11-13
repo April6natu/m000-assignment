@@ -6,7 +6,7 @@
 
 ## GitHub repository URL
 Replace this with the repo URL after pushing:
-https://github.com/<your-username>/m000-assignment
+(https://github.com/April6natu/m000-assignment.git)/m000-assignment
 
 ## Description of work
 Created a minimal Aiken project `m000-assignment` containing five passing tests demonstrating:
