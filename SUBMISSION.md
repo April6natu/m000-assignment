@@ -1,8 +1,8 @@
 # M000 Assignment Submission
 
 ## Personal details
-- Name: <Your Name>
-- Email: <your.email@example.com>
+- Name: Israel N Tamba
+- Email: inyumtamba2016@gmail.com
 
 ## GitHub repository URL
 Replace this with the repo URL after pushing:
